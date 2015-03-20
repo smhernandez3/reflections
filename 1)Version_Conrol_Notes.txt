@@ -1,0 +1,21 @@
+Version Conrol
+
+- How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+No where something went wrong and pin point problem. Also if you ever need to backtrack to debug something
+
+-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+you know when exactly a change is and when to save it
+
+-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+practicaly of what you are trying to acomplish.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Ids, negs and pos.s
+
+How might using version control make you more confident to make changes that could break something?
+
+cuz you will always have the ability to go back and pin point the problem 
