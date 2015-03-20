@@ -7,4 +7,21 @@ To set up the git
 
 lets you what you want to commmit. makes sure you know exactly what and if you are ready to commit
 
+- How can you use the staging area to make sure you have one commit per logical change?
+
+use git diff and git diff --staged to see your changes befor you commit
+
+-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you want to expierement with different idea but you still want keep you core code working
+
+-How do the diagrams help you visualize the branch structure?
+so you don't go fucking crazy and pull all your god dam hair out.. keeps you organizied and sane 
+
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+all the commits are then combined from both branches 
+
+what whatup whatup
+
 
