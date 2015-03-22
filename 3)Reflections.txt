@@ -9,3 +9,11 @@ becuase you wante to be able to conroll things. you don't want to push/pull new 
 -Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 forks: just clones on github. clones hapens from github to ur compuerter. fork just for gH
+
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+
+allows you to come back to it 
+
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Trying to cordinate and figure out the pull requests I think would be tricky.  But once you get a therough unerstating of how the process works, I could see it being a major benifet to project development.
